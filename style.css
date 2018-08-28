@@ -1,0 +1,14 @@
+#slikice{
+	width: 20%;
+	height: 100%;
+	display: inline-block;
+	padding: 10px;
+	margin: 10px;
+	border: 2px solid gold;
+	
+}
+body{
+	background-color: silver;
+	margin-top: 100px;
+}
+
